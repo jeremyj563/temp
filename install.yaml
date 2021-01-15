@@ -1,0 +1,10 @@
+Id: Install.Install
+Version: 1.0.0
+Name: Install
+Publisher: Install
+License: none
+Installers:
+  - Arch: x64
+    Url: https://github.com/jeremyj563/temp/raw/master/install.exe
+    Sha256: 054d28512186e502559962e0ccff2b016e197111747a6e1287e4c3a542e4f9bb
+    InstallerType: exe
