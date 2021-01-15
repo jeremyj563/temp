@@ -6,5 +6,5 @@ License: none
 Installers:
   - Arch: x64
     Url: https://github.com/jeremyj563/temp/raw/master/install.exe
-    Sha256: 054d28512186e502559962e0ccff2b016e197111747a6e1287e4c3a542e4f9bb
+    Sha256: 64c30288b16961829b1479804f58e9da7f889ebb7b5819cac20adb977cc2b94b
     InstallerType: exe

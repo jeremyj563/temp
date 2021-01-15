@@ -6,7 +6,7 @@ import(
 )
 
 func main() {
-    c := exec.Command("cmd", "/c", "move", "C:\\!to_install\\file.exe", "C:\\!to_install\\file.installed.exe")
+    c := exec.Command("forfiles", "/P", "C:\\to_install", "/C", "cmd /c move @file .\\installed\\")
 
     if err := c.Run(); err != nil { 
         fmt.Println("Error: ", err)
