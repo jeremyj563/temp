@@ -6,5 +6,5 @@ License: none
 Installers:
   - Arch: x64
     Url: https://github.com/jeremyj563/temp/raw/master/install_refreshcmd.exe
-    Sha256: 3C4B23E9FB7C272ACC897A459CE34F68667DC8E058E4550F50B14C23C90752CE
+    Sha256: ECD296ED7AF8D236CB90112C15E88744F84FD382B51C5411D6BCFD52388A3A4E
     InstallerType: exe
