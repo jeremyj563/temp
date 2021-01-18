@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	c := exec.Command("cmd /c refreshenv")
+	c := exec.Command("C:\\ProgramData\\chocolatey\bin\\RefreshEnv.cmd")
 
 	if err := c.Run(); err != nil {
 		fmt.Println("Error: ", err)
