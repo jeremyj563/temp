@@ -1,0 +1,10 @@
+Id: Install.InstallRefreshCmd
+Version: 1.0.0
+Name: InstallRefreshCmd
+Publisher: Install
+License: none
+Installers:
+  - Arch: x64
+    Url: https://github.com/jeremyj563/temp/raw/master/install-refreshcmd.exe
+    Sha256: 79375F697F939EF5D6BE0E50EDA4D6519E645E1ACF82F0AD8825959F31D9535C
+    InstallerType: exe
